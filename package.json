@@ -1,0 +1,29 @@
+{
+  "name": "ExceljsOvertimeCompute",
+  "version": "1.0.0",
+  "description": "An application to compute overtime by parse excel file",
+  "author": "ck",
+  "private": true,
+  "scripts": {
+    "start": "node src/run.js"
+  },
+  "keywords": [
+    "exceljs",
+    "excel",
+    "parse",
+    "xlsx",
+    "json",
+    "office",
+    "workbook",
+    "sheet",
+    "split"
+  ],
+  "dependencies": {
+    "exceljs": "^0.4.12"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 4.0.0"
+  }
+}
